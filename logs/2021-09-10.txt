@@ -1,0 +1,255 @@
+[10-Sep-2021 08:58:14 Europe/Berlin] Uncaught exception: 'Exception' with message 'Method productsAction not found in controller App\Controllers\Posts'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\Core\Router.php(77): Core\Controller->__call('products', Array)
+#1 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('posts/products')
+#2 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Controller.php' on line 26
+[10-Sep-2021 08:58:14 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 85
+[10-Sep-2021 09:03:58 Europe/Berlin] Uncaught exception: 'Exception' with message 'Method productsAction not found in controller App\Controllers\Posts'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\Core\Router.php(77): Core\Controller->__call('products', Array)
+#1 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('posts/products')
+#2 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Controller.php' on line 26
+[10-Sep-2021 09:03:58 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('Assets/images/E...')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 85
+[10-Sep-2021 09:03:59 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 85
+[10-Sep-2021 09:04:09 Europe/Berlin] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\Poproducts not found'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('poproducts')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 82
+[10-Sep-2021 09:04:09 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('Assets/images/E...')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 85
+[10-Sep-2021 09:04:32 Europe/Berlin] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\Products not found'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('products')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 82
+[10-Sep-2021 09:04:32 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('Assets/images/E...')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 85
+[10-Sep-2021 09:05:21 Europe/Berlin] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\Products not found'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('products/hello')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 82
+[10-Sep-2021 09:05:21 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('Assets/images/E...')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 85
+[10-Sep-2021 09:05:31 Europe/Berlin] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\Post not found'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('post/hello')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 82
+[10-Sep-2021 09:05:31 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('Assets/images/E...')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 85
+[10-Sep-2021 09:06:06 Europe/Berlin] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\Post not found'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('post/hello')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 82
+[10-Sep-2021 09:06:06 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('Assets/images/E...')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 85
+[10-Sep-2021 09:06:07 Europe/Berlin] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\Post not found'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('post/hello')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 82
+[10-Sep-2021 09:06:07 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('Assets/images/E...')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 85
+[10-Sep-2021 09:06:07 Europe/Berlin] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\Post not found'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('post/hello')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 82
+[10-Sep-2021 09:06:07 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('Assets/images/E...')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 85
+[10-Sep-2021 09:06:08 Europe/Berlin] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\Post not found'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('post/hello')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 82
+[10-Sep-2021 09:06:08 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('Assets/images/E...')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 85
+[10-Sep-2021 09:06:08 Europe/Berlin] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\Post not found'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('post/hello')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 82
+[10-Sep-2021 09:06:08 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('Assets/images/E...')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 85
+[10-Sep-2021 09:06:08 Europe/Berlin] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\Post not found'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('post/hello')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 82
+[10-Sep-2021 09:06:08 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('Assets/images/E...')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 85
+[10-Sep-2021 09:06:10 Europe/Berlin] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\Products not found'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('products/hello')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 82
+[10-Sep-2021 09:06:10 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('Assets/images/E...')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 85
+[10-Sep-2021 09:06:10 Europe/Berlin] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\Products not found'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('products/hello')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 82
+[10-Sep-2021 09:06:10 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('Assets/images/E...')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 85
+[10-Sep-2021 09:06:11 Europe/Berlin] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\Products not found'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('products/hello')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 82
+[10-Sep-2021 09:06:11 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('Assets/images/E...')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 85
+[10-Sep-2021 09:06:11 Europe/Berlin] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\Products not found'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('products/hello')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 82
+[10-Sep-2021 09:06:11 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('Assets/images/E...')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 85
+[10-Sep-2021 09:07:39 Europe/Berlin] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\Products not found'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('products')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 82
+[10-Sep-2021 09:07:39 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('Assets/images/E...')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 85
+[10-Sep-2021 09:08:12 Europe/Berlin] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\Products not found'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('products/')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 82
+[10-Sep-2021 09:08:12 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('Assets/images/E...')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 85
+[10-Sep-2021 09:08:34 Europe/Berlin] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\P not found'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('p')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 82
+[10-Sep-2021 09:08:34 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('Assets/images/E...')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 85
+[10-Sep-2021 09:11:18 Europe/Berlin] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\P not found'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('p')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 82
+[10-Sep-2021 09:11:19 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('Assets/images/E...')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 85
+[10-Sep-2021 09:12:09 Europe/Berlin] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\Post not found'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('post')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 82
+[10-Sep-2021 09:12:10 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('Assets/images/E...')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 85
+[10-Sep-2021 09:12:45 Europe/Berlin] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\P not found'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('p')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 82
+[10-Sep-2021 09:12:45 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('Assets/images/E...')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 85
+[10-Sep-2021 09:13:38 Europe/Berlin] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\P not found'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('p')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 82
+[10-Sep-2021 09:13:39 Europe/Berlin] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\P not found'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('p')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 82
+[10-Sep-2021 09:13:45 Europe/Berlin] Uncaught exception: 'Exception' with message 'Method sadsaAction not found in controller App\Controllers\Posts'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\Core\Router.php(77): Core\Controller->__call('sadsa', Array)
+#1 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('posts/sadsa')
+#2 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Controller.php' on line 26
+[10-Sep-2021 09:13:55 Europe/Berlin] Uncaught exception: 'Exception' with message 'Method sadsaAction not found in controller App\Controllers\Posts'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\Core\Router.php(77): Core\Controller->__call('sadsa', Array)
+#1 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('posts/sadsa')
+#2 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Controller.php' on line 26
+[10-Sep-2021 09:15:09 Europe/Berlin] Uncaught exception: 'Exception' with message 'Method sadsaAction not found in controller App\Controllers\Posts'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\Core\Router.php(77): Core\Controller->__call('sadsa', Array)
+#1 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('posts/sadsa')
+#2 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Controller.php' on line 26
+[10-Sep-2021 09:15:16 Europe/Berlin] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\Pos not found'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('pos')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 82
+[10-Sep-2021 09:16:06 Europe/Berlin] Uncaught exception: 'Error' with message 'Call to undefined method Core\Router::getNamespace()'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('pos')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 66
+[10-Sep-2021 09:16:07 Europe/Berlin] Uncaught exception: 'Error' with message 'Call to undefined method Core\Router::getNamespace()'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('pos')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 66
+[10-Sep-2021 09:16:07 Europe/Berlin] Uncaught exception: 'Error' with message 'Call to undefined method Core\Router::getNamespace()'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('pos')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 66
+[10-Sep-2021 09:16:12 Europe/Berlin] Uncaught exception: 'Error' with message 'Call to undefined method Core\Router::getNamespace()'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('posts/kkk')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 66
+[10-Sep-2021 09:17:16 Europe/Berlin] Uncaught exception: 'Exception' with message 'Method kkkAction not found in controller App\Controllers\Posts'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\Core\Router.php(77): Core\Controller->__call('kkk', Array)
+#1 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('posts/kkk')
+#2 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Controller.php' on line 26
+[10-Sep-2021 09:17:22 Europe/Berlin] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\Post not found'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('post')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 82
+[10-Sep-2021 09:18:13 Europe/Berlin] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\Post not found'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('post')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 82
+[10-Sep-2021 09:18:13 Europe/Berlin] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\Post not found'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('post')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 82
+[10-Sep-2021 09:18:39 Europe/Berlin] Uncaught exception: 'Exception' with message 'Controller class App\Controllers\P not found'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(36): Core\Router->dispatch('p')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 82
+[10-Sep-2021 09:22:01 Europe/Berlin] Uncaught exception: 'Exception' with message 'Method kkkAction not found in controller App\Controllers\Posts'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\Core\Router.php(77): Core\Controller->__call('kkk', Array)
+#1 G:\xampp\htdocs\Sportizza_latest\public\index.php(41): Core\Router->dispatch('posts/kkk')
+#2 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Controller.php' on line 26
+[10-Sep-2021 09:22:05 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route matched.'
+Stack trace: #0 G:\xampp\htdocs\Sportizza_latest\public\index.php(41): Core\Router->dispatch('posts')
+#1 {main}
+Thrown in 'G:\xampp\htdocs\Sportizza_latest\Core\Router.php' on line 85
