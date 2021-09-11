@@ -2,10 +2,8 @@
 
 
 namespace App\Controllers;
-
-
 use Core\View;
-
+use App\Models\AdminManageUser;
 class Admin extends \Core\Controller
 {
     protected function before()
@@ -16,6 +14,15 @@ class Admin extends \Core\Controller
     public function after()
     {
     }
+    public function indexAction()
+    {
+        View::renderTemplate('Admin/admin-FAQ.html');
+    }
+
+    public function analyticsAction()
+    {
+        View::renderTemplate('Admin/admin-FAQ.html');
+    }
 
     public function faqAction()
     {
@@ -24,7 +31,10 @@ class Admin extends \Core\Controller
 
     public function manageuserAction()
     {
-        View::renderTemplate('Admin/admin-manage-users.html');
+        $users = AdminManageUser::getAll();
+        View::renderTemplate('Admin/admin-manage-users.html', [
+            'users' => $users
+        ]);
     }
 
     public function ratingsAction()

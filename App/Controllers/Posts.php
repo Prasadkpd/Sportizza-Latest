@@ -12,6 +12,7 @@ class Posts extends \Core\Controller
 
     public function indexAction()
     {
+        //Pass values from get all function in Post model
         $posts = Post::getAll();
 
         View::renderTemplate('hello.html', [
